@@ -1,2 +1,2 @@
 
-        while self.light_is_on():
+                self.set_light_off()
