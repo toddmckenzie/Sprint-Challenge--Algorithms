@@ -29,5 +29,5 @@ The goal would be to keep splitting the search in 2.  So split n in half and dro
             return find_floor(n, top_half)
 
 
-O(nlogn) - As n grows the runtime does not increase much.
+O(logn) - As n grows the runtime does not increase much.
 
