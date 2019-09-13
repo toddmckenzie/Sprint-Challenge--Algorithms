@@ -25,7 +25,7 @@ The goal would be to keep splitting the search in 2.  So split n in half and dro
     else:
         if egg breaks at n:
             return find_floor(n, bottom_half)
-        else:
+        else if egg doesn't break:
             return find_floor(n, top_half)
 
 
