@@ -1,2 +1,2 @@
 
-                self.move_right()
+        while self.light_is_on():
